@@ -10,8 +10,6 @@ class CustomDeserializer extends Deserializer[Sample] {
   private val encoding = "UTF8"
 
   @Override   override def configure(configs: util.Map[String, _], isKey: Boolean): Unit = {}
-
-
   @Override def deserialize(topic: String, data: Array[Byte]): Sample = try {
     if (data == null) {
       System.out.println("Null recieved at deserialize")
@@ -24,14 +22,12 @@ class CustomDeserializer extends Deserializer[Sample] {
     buf.get(nameBytes)
 
     val deserializedName = new String(nameBytes, encoding)
-    val sizeOfDate = buf.getInt
 
     new Sample(id, deserializedName)
   } catch {
     case e: Exception =>
       throw new SerializationException("Error when deserializing byte[] to Sample")
   }
-
   override def close(): Unit = {}
 
 }

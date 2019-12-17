@@ -17,10 +17,11 @@ object CustomConsumer extends App {
 
   consumer.subscribe(util.Arrays.asList(topicName))
 
-  while (true) {
-    val records = consumer.poll(100)
+    val records = consumer.poll(1000)
     System.out.println("count " + records.count())
-  }
+
+
+
   consumer.close()
 
 }
