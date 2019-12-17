@@ -1,6 +1,8 @@
 
 import java.util
 import java.util._
+import scala.collection.JavaConverters._
+
 
 import org.apache.kafka.clients.consumer.KafkaConsumer
 
@@ -17,8 +19,12 @@ object CustomConsumer extends App {
 
   consumer.subscribe(util.Arrays.asList(topicName))
 
-    val records = consumer.poll(1000)
-    System.out.println("count " + records.count())
+  while (true) {
+    val records = consumer.poll(1000).asScala.iterator
+    for (recordValue <- records)
+      println(" id= " + String.valueOf(recordValue.value.getID) + " Name = " + recordValue.value.getName)
+  }
+
 
 
 

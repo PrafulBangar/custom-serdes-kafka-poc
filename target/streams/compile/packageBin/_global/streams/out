@@ -1,1 +1,45 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/custom-serializer-kafka_2.13-0.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/custom-serializer-kafka_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomProducer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/CustomProducer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/CustomProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom/CustomProducer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom/CustomProducer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom/CustomProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom/CustomProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom/CustomProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom/CustomProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom/CustomSerializer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom/CustomSerializer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom/Sample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom/Sample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom/CustomDeserializer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom/CustomDeserializer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom/Sample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom/Sample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom/CustomConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom/CustomConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom/CustomConsumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom/CustomConsumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	custom/CustomConsumer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/custom/CustomConsumer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/CustomProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomSerializer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/CustomSerializer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomDeserializer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/CustomDeserializer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/Sample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/CustomConsumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomConsumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/CustomConsumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomConsumer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Music/ApacheKafkaTutorials-master/custom-serializer-kafka/target/scala-2.13/classes/CustomConsumer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
